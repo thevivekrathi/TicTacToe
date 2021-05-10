@@ -1,12 +1,14 @@
 # TicTacToe
 The classic Tic Tac Toe game built using Python that can be played randomly between two players.
 
-This project will show you how to develop the game using Python. The final code can be found in gameplay.py
-If you want to learn more and see how we can create multiple gameplays check out the tictactoe.py
+This project will help you understand how we can develop the game using Python and few of its libraries. 
+
+The game creation part can be found in creating_gameplay.ipynb and the final code can be found in gameplay.ipynb
 
 Here is a snapshot of how the game looks:
 
-![image](https://user-images.githubusercontent.com/83921882/117595480-95035d80-b15e-11eb-80bf-eea9c8f68672.png)
+![image](https://user-images.githubusercontent.com/83921882/117605563-a5730280-b175-11eb-8a42-08a61f453e50.png)
+
 
 Some of the python functions that helped us complete this are mentioned below:
 
