@@ -3,7 +3,7 @@ The classic Tic Tac Toe game built using Python that can be played randomly betw
 
 This project will help you understand how we can develop the game using Python and few of its libraries. 
 
-The game creation part can be found in creating_gameplay.ipynb and the final code can be found in gameplay.ipynb
+The game creation part can be found in creating_gameplay.ipynb and the final code to run a successful simulation can be found in gameplay.ipynb
 
 Here is a snapshot of how the game looks:
 
